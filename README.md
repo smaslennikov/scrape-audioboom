@@ -17,3 +17,7 @@ will produce `1-the-duncan-trussell-family-hour-episode-1.mp3` and so on.
 1. At the end of the series, the script loops over and continuously grabs the last two episodes. In my case, Audioboom ratelimited my IP after an extra 700 snatches of the same two episodes (though the entire series of 426 episodes successfully downloaded without getting ratelimited)
 1. Errors aren't handled
 1. Errors do happen sometimes, but aren't clearly provided to the user
+
+## License
+
+This code and information is [licensed under MIT](LICENSE).
